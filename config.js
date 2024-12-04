@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5218336105471", 'Tilin', true], //el tilin
-["5218336105471", 'gay', true], //es gay
-["5218336105471"]]
+["17166576231", 'Ghost g5', true], //el tilin
+["17166576231", 'tilin', true], //es gay
+["17166576231"]]
 
-global.mods = ["5218336105471"]
-global.prems = ["5218336105471"]
+global.mods = ["17166576231"]
+global.prems = ["17166576231"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5218336105471", 'tilin', 1], 
-["5218336105471", 'tilinn', 1],  
-["5218336105471", 'Tilins', 1]]
+["17166576231", 'Ghost g5', 1], 
+["17166576231", 'Ghost g5', 1],  
+["17166576231", 'Ghost g5', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙂𝙊𝙆𝙐-𝘽𝙤𝙩"
-global.author = "𝙂𝙊𝙆𝙐-𝘽𝙤𝙩"
+global.packname = "SCREAM"
+global.author = "SCREAM"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝙂𝙊𝙆𝙐-𝘽𝙤𝙩"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙂𝙊𝙆𝙐-𝘽𝙤𝙩"
+global.gt = "SCREAM"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,8 +157,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
-global.igfg = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
+global.wm = "SCREAM"
+global.igfg = "SCREAM"
 global.nomorown = "584123989549"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
